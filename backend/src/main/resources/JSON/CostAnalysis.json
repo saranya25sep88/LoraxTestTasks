@@ -1,0 +1,479 @@
+[
+  {
+    "yearId": "2015",
+    "geoRegionId": 0,
+    "countryId": 0,
+    "regionId": 0,
+    "schemeId": 40,
+    "schmTypeId": 1,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 0,
+    "countryId": 0,
+    "regionId": 0,
+    "schemeId": 43,
+    "schmTypeId": 1,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 150,
+    "countryId": 40,
+    "regionId": 0,
+    "schemeId": 4,
+    "schmTypeId": 1,
+    "cost": 2229.4381180
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 150,
+    "countryId": 100,
+    "regionId": 0,
+    "schemeId": 40,
+    "schmTypeId": 1,
+    "cost": 0.0
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 150,
+    "countryId": 233,
+    "regionId": 0,
+    "schemeId": 43,
+    "schmTypeId": 1,
+    "cost": 0.0
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 150,
+    "countryId": 276,
+    "regionId": 0,
+    "schemeId": 10,
+    "schmTypeId": 1,
+    "cost": 7326.7167085
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 150,
+    "countryId": 276,
+    "regionId": 0,
+    "schemeId": 30,
+    "schmTypeId": 1,
+    "cost": 363.2831627
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 150,
+    "countryId": 276,
+    "regionId": 0,
+    "schemeId": 116,
+    "schmTypeId": 1,
+    "cost": 7877.8909096
+  },
+  {
+    "yearId": "2015",
+    "geoRegionId": 150,
+    "countryId": 642,
+    "regionId": 0,
+    "schemeId": 41,
+    "schmTypeId": 1,
+    "cost": 230.4874592
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 0,
+    "countryId": 0,
+    "regionId": 0,
+    "schemeId": 8,
+    "schmTypeId": 1,
+    "cost": 69437.0683739
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 0,
+    "countryId": 0,
+    "regionId": 0,
+    "schemeId": 43,
+    "schmTypeId": 1,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 0,
+    "countryId": 0,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 0,
+    "countryId": 0,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 3,
+    "countryId": 124,
+    "regionId": 12402,
+    "schemeId": 32,
+    "schmTypeId": 1,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 3,
+    "countryId": 124,
+    "regionId": 12403,
+    "schemeId": 34,
+    "schmTypeId": 1,
+    "cost": 1123.9061064
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 3,
+    "countryId": 124,
+    "regionId": 12407,
+    "schemeId": 33,
+    "schmTypeId": 1,
+    "cost": 2116.8978382
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 3,
+    "countryId": 124,
+    "regionId": 12410,
+    "schemeId": 35,
+    "schmTypeId": 1,
+    "cost": 1317.2831366
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 9,
+    "countryId": 36,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 40,
+    "regionId": 0,
+    "schemeId": 4,
+    "schmTypeId": 1,
+    "cost": 0.0
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 40,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 40,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 56,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 56,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 203,
+    "regionId": 0,
+    "schemeId": 37,
+    "schmTypeId": 1,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 203,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 203,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 208,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 208,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 233,
+    "regionId": 0,
+    "schemeId": 43,
+    "schmTypeId": 1,
+    "cost": 0.0
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 233,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 250,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 250,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 276,
+    "regionId": 0,
+    "schemeId": 15,
+    "schmTypeId": 2,
+    "cost": 0.0
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 372,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 380,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 380,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 528,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 578,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 578,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 616,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 616,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 642,
+    "regionId": 0,
+    "schemeId": 41,
+    "schmTypeId": 1,
+    "cost": 604.1564547
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 642,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 642,
+    "regionId": 0,
+    "schemeId": 109,
+    "schmTypeId": 1,
+    "cost": 3312.0625463
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 724,
+    "regionId": 0,
+    "schemeId": 8,
+    "schmTypeId": 1,
+    "cost": 0.0
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 724,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 724,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 752,
+    "regionId": 0,
+    "schemeId": 72,
+    "schmTypeId": 2,
+    "cost": 0.0
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 752,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 826,
+    "regionId": 0,
+    "schemeId": 75,
+    "schmTypeId": 3,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2016",
+    "geoRegionId": 150,
+    "countryId": 826,
+    "regionId": 0,
+    "schemeId": 76,
+    "schmTypeId": 2,
+    "cost": 0.0000000
+  },
+  {
+    "yearId": "2017",
+    "geoRegionId": 3,
+    "countryId": 124,
+    "regionId": 12402,
+    "schemeId": 142,
+    "schmTypeId": 5,
+    "cost": 1471.0091934
+  },
+  {
+    "yearId": "2017",
+    "geoRegionId": 150,
+    "countryId": 40,
+    "regionId": 0,
+    "schemeId": 4,
+    "schmTypeId": 1,
+    "cost": 2127.9892636
+  }
+]
