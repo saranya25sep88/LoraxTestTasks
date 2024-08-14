@@ -9,17 +9,19 @@ import software.amazon.awssdk.services.sqs.model.SendMessageRequest;
 import software.amazon.awssdk.services.sqs.model.SendMessageResponse;
 
 public class QueueService {
-    private static final String QUEUE_URL = "https://sqs.eu-north-1.amazonaws.com/796973487905/Sample1";
+
+//    Update your SQS URL
+    private static final String QUEUE_URL = "https://sqs.eu-north-1.amazonaws.com/**********/Sample1";
     private static SqsClient sqsClient;
 
 //    initialise sqs client
     public static void initializeSqsClient() {
 
-        String accessKeyId = "AKIA3TD2SK4QXUVBN37L";
-        String secretAccessKey = "x55w/i6mvygyV4o4P0B0mxkT72fRoLhkdCrAvmtz";
+        String accessKeyId = "********"; //Enter your access key
+        String secretAccessKey = "*********"; //Enter your secret key
 
         sqsClient = SqsClient.builder()
-                .region(Region.EU_NORTH_1) // Set your region
+                .region(Region.EU_NORTH_1) // Update your region where your sqs located
                 .credentialsProvider(StaticCredentialsProvider.create(
                         AwsBasicCredentials.create(accessKeyId,secretAccessKey)))
                 .build();
